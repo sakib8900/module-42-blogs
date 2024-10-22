@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/covers/book1.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/authors/janedoe.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 8,
+      "hashtags": ["#astronomy", "#science", "#space"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/covers/book2.jpg",
+      "title": "Mastering JavaScript ES6",
+      "author": "John Smith",
+      "author_img": "https://example.com/authors/johnsmith.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 12,
+      "hashtags": ["#javascript", "#coding", "#webdevelopment"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/covers/book3.jpg",
+      "title": "The Art of Minimalism",
+      "author": "Emily White",
+      "author_img": "https://example.com/authors/emilywhite.jpg",
+      "posted_date": "2024-09-30",
+      "reading_time": 5,
+      "hashtags": ["#minimalism", "#lifestyle", "#selfimprovement"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/covers/book4.jpg",
+      "title": "AI and the Future of Work",
+      "author": "Michael Brown",
+      "author_img": "https://example.com/authors/michaelbrown.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 10,
+      "hashtags": ["#AI", "#technology", "#futureofwork"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/covers/book5.jpg",
+      "title": "Healthy Eating Made Easy",
+      "author": "Sarah Green",
+      "author_img": "https://example.com/authors/sarahgreen.jpg",
+      "posted_date": "2024-10-18",
+      "reading_time": 6,
+      "hashtags": ["#health", "#nutrition", "#wellness"]
+    }
+  ]
+  
